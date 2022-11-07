@@ -1,0 +1,23 @@
+{
+  "name": "survival-typescript",
+  "version": "1.0.0",
+  "description": "[サバイバルTypeScript](https://typescriptbook.jp/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kami8ma8810/survival-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kami8ma8810/survival-typescript/issues"
+  },
+  "homepage": "https://github.com/kami8ma8810/survival-typescript#readme",
+  "volta": {
+    "node": "16.18.1"
+  }
+}
